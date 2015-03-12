@@ -7,7 +7,7 @@ package ch.heigvd.res.mygitsandboxproject;
 
 /**
  *
- * @author admin
+ * @author Alice
  */
 public class MyApplication {
 
