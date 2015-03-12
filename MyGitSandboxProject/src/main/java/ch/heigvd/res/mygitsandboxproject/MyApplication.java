@@ -13,7 +13,7 @@ package ch.heigvd.res.mygitsandboxproject;
 public class MyApplication {
 
   /**
-   * @param args the command line arguments (by bob)
+   * @param args the command line arguments (by alice)
    */
   public static void main(String[] args) {
     // TODO code application logic here
